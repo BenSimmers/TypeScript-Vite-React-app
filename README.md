@@ -1,3 +1,2 @@
-# vitejs-vite-6qqyoc
+# TypeScript-Vite-React-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-6qqyoc)
