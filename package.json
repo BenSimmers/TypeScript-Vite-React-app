@@ -1,14 +1,15 @@
 {
-  "name": "vite-react-typescript-starter",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@bensimmersdev/vite-react-typescript-starter",
+  "version": "1.0.2",
   "type": "module",
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "child-process": "^1.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
