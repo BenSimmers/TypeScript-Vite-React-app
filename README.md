@@ -10,10 +10,9 @@ git clone https://github.com/BenSimmers/TypeScript-Vite-React-app.git
 ```
 or fork the template repo
 
-`` bash
+``` bash
 use npx @bensimmersdev/vite-react-typescript-starter <appName> (not working)
 ```
-
 Install Node Modules
 
 
