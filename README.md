@@ -17,6 +17,8 @@ git clone https://github.com/BenSimmers/TypeScript-Vite-React-app.git
 # make sure npm and degit is installed
 degit https://github.com/BenSimmers/TypeScript-Vite-React-app.git <project-name>
 
+cd <project-name>
+
 npm install
 
 npm run dev
