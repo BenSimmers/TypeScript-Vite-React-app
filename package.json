@@ -2,6 +2,7 @@
   "name": "typescript-vite-react-app",
   "version": "0.0.2",
   "scripts": {
+    "start" : "vite",
     "dev": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview --port 3000",
